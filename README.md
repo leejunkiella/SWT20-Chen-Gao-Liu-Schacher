@@ -2,7 +2,7 @@
 
 * Chen Jing [^1]
 * Ruilin Gao [^2]
-* Chang Liu [^3}]
+* Chang Liu [^3]
 
 [^1]: chenji@students.uni-marburg.de
 [^2]: Gaor@students.uni-marburg.de
