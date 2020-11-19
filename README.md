@@ -3,4 +3,4 @@
 * Marlon Schacherl [^1]
 
 
-[^1]:Schacher
+[^1]:Schacher@students.uni-marburg.de
