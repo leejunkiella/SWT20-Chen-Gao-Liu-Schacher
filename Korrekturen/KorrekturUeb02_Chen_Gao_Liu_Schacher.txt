@@ -1,0 +1,25 @@
+Gesamt 6 / 20
+
+Aufgabe 1)
+Aufgabe 1.1 0 /2 - öhm Ordnerstruktur ist da aber eure evault, filechooser und imageviewer Ordner sind leer -2.
+Aufgabe 1.2 0 /2  - git status und git status -u zeigen beide Dateien an die im Index und in der Working directory sind.
+		Der Unterschied ist, dass git status -u auch files in einem neuen directory anzeigt. 
+		git status aber lediglich das neue directory. Inwieweit euch der Befehl konkret hilt wurde auch nicht erläutert.
+
+Aufgabe 2:
+	a) 2 / 2
+	b) 0 / 2 - Das Problem ist dass der File dann aber nicht mehr vorhanden wäre und nicht ins Repository
+		übernommen wird. Bei git rm cached wird er nur aus dem index nicht aber aus der working directory gelöscht. -2
+
+Aufgabe 3)
+	a) 3 / 3
+	b) 0 / 2 - Richtig den Konflikt erkannt, die Frage ist aber warum funktioniert es. Die Begründung dafür 
+		ist dass Java bzw. Intellij die Version von Junit nimmt die durch das Hauptprojekt genutzt werden soll. -2
+	c) 0 / 2 - fehlt
+
+Aufgabe 4) 1 / 5
+1.4 richtig erkannt, aber ansonsten scheint ihr nur die entsprechenden Teile der Spezifikation kopiert zu haben.
+-4
+
+Aufgabe 5) 0/1
+Hier ging es um das Programm evault an sich, nicht das git repo.
