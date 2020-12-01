@@ -1,4 +1,4 @@
-Gesamt 6 / 20
+Gesamt 7 / 20
 
 Aufgabe 1)
 Aufgabe 1.1 0 /2 - öhm Ordnerstruktur ist da aber eure evault, filechooser und imageviewer Ordner sind leer -2.
@@ -13,8 +13,8 @@ Aufgabe 2:
 
 Aufgabe 3)
 	a) 3 / 3
-	b) 0 / 2 - Richtig den Konflikt erkannt, die Frage ist aber warum funktioniert es. Die Begründung dafür 
-		ist dass Java bzw. Intellij die Version von Junit nimmt die durch das Hauptprojekt genutzt werden soll. -2
+	b) 1 / 2 - Richtig den Konflikt erkannt, die Frage ist aber warum funktioniert es. Die Begründung dafür 
+		ist dass Java bzw. Intellij die Version von Junit nimmt die durch das Hauptprojekt genutzt werden soll. -1
 	c) 0 / 2 - fehlt
 
 Aufgabe 4) 1 / 5
