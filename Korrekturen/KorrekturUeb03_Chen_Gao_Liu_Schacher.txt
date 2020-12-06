@@ -1,0 +1,28 @@
+Gesamt 9.5 / 20
+
+Aufgabe 1) 6.5 / 8
+
+a) 4.5 / 6
+Anhang ist ein komplexer Datentyp und würde deshalb als eigene Klasse modelliert werden -0.5
+Kategorie und Eintrag brauchen ein eigenes Namensfeld, da sie Standardnamen bekommen sollen. -0.5
+Die Wurzel braucht noch eine Assoziation zum Element da Sie alle Elemente hält. -0.5
+
+
+b) 2 / 2
+sauber!
+
+Aufgabe 2) 3 / 12
+
+a) 1 / 6
+Zu Exceptions und enums werden keine Assoziationen gemalt. -1
+Es fehlen die Bezeichner für Interface und abstrakte Klassen. -2
+Die Raptorklasse fehlt -1
+contain gibt es in diesem Fall nicht.
+oviraptor fehlt digest methode, Tyrannosaurus auch, sowie is correctFoodType ... -1
+
+b) 0 / 2 
+Abhängigkeiten werden gestrichelt dargestellt -2.
+c) 0 / 2
+korrigiertes Modell fehlt. -2 Erklärung ist auch nicht vollständig.
+d) 2 / 2
+passt.
