@@ -1,0 +1,29 @@
+Gesamt: 5.5 / 20 - Abgabeschluss ist regulär um 14 Uhr, dies bitte einhalten, beim nächsten mal 
+gibt es sonst 0 Punkte auf den Zettel! Und mir bitte den commit hash, bzw. den direkten Link auf den 
+release schicken, in euer Repo kann ich selber reingucken.
+
+Aufgabe 1 - 4.5 / 8
+a) 4.5 / 5
+recent hat 1  zu was? -0.5
+Root zu Entry braucht keine Kardinalität dies sind nur die zusammengeführten Vererbungen.
+
+b) 0 / 3
+fehlt.
+
+Aufgabe 2 - 1 / 8
+a) 1 / 4
+	a) ist nicht konform dass stimmt, aber nicht wegen fehlender Exceptions oder weil der falsche
+Foodtype existiert, sondern weil die Assoziation von Gamestae und Dinos mindestens 2 Dinosaurier fordert.
+-0.5
+	b) ist nicht konform weil die ausgehenden Kanten von player3 nicht die erforderlichen Bedingungen
+für pack erfüllen. -1
+	c)  nicht konform ist wieder korrekt aber die aggregation von gamestate und oviraptor ist korrekt.
+Der eigentliche fehler ist dassfood eine abstrakte Klasse ist und deshalb keine Objekte besitzen darf. -0.5
+	d) ist nicht konform weil der Gamestate und die Dinosaurier nicht durch Kanten verbunden sind. -1
+b) 0 / 2
+fehlt.
+c) 0 / 2
+fehlt.
+Aufgabe 3 - 0 / 4 (5)
+Ehm. Da sind mehrere Basic fehler drin. Und der Code kompiliert nicht. Das Stub wurde auch nicht benutzt.
+-4
