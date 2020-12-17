@@ -1,0 +1,1 @@
+{"wurzel":{"Type":"category","name":"Shops","UserName":"Hans","Phone":"01234","categories":[{"Type":"category","Name":"Banken","Notes":"Bankinformationen","entries":[{"itemType":"item","Name": "Postbank","URL": "https:/www.postbank.de/","accountType": "Onlinekonto"}]}]}}
