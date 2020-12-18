@@ -1,0 +1,17 @@
+Gesamt: 4 / 21 - Ihr steht bei der Halbzeit auf 44% der aktuell erreichbaren Punkte.
+
+Aufgabe 1 - 1 / 4
+a) 0 / 2 - fehlt
+b) 1 / 2 - Ja Final ist sinnvoll aber weil es sich um ein Singleton handelt und die Felder instance und application
+Kontext deshalb nicht überschrieben werden sollen -1. 
+
+Aufgabe 2 - 3 / 6
+a) 2 / 3 - Jup, aber handelt es sich um eine normale Schichtenarchitektur? -1 
+b) 1 / 1
+c) 0 / 2 - fehlt
+
+Aufgabe 3 - 0 / 11
+a) 0 / 3 - es ging um einen spezifischen Fall des umgesetzen Interfaces -3
+b) 0 / 1 - der Stream hätte im Code in den Try Block geschrieben werden müssen -1
+c) 0 / 4 - fehlt 
+d) 0 / 3 - ja und welche? 
