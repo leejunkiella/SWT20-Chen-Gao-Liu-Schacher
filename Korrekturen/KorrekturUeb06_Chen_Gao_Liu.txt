@@ -1,0 +1,23 @@
+Gesamt: 0 / 20
+
+1) 0/5
+Vorbedingung muss nicht modelliert werden.
+AccessDataBase gibt es nicht. -1
+Application nicht modelliert. -1
+Alternative hat keine Guard. -1
+Alternative hat kein Else -1
+Keine Nachrichten auf sich selbst -1.
+
+...
+
+
+2) 0/12
+a) 0/4
+Reine Kopie des Anforderungsfalls. -4
+b) 0/4
+fehlt.
+c) 0/4
+fehlt
+
+3) 0/3
+Dass war eine Programmieraufgabe -3.
