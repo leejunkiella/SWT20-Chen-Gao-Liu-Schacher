@@ -1,0 +1,31 @@
+Gesamt: 8.5/20
+
+Aufgabe 1 - 3.5/8
+Objektdiagram für die neue Datenbank fehlt -2
+Im Objekdiagram fehlen beim Entry, Category und Root das Feld notes
+und bei Entry password, username, url, phone, etc. -0.5
+ 
+Ein Eintrag ist ausgewählt gehört zur Vorbedingung. Muss
+also nicht mit modelliert werden. -0.5
+
+Bei neuer Datenbank werden sowohl root, Kateogorie und 
+Kopie nacheinander erstellt.  -1
+Könnte man auch einfach als "Datenbank anlegen zusammenfassen" schreiben.
+
+Sachen die Sonst in den Bedingungen über den Pfeilen stehen,
+sind hier in Aktivitäten. -0.5
+
+Aufgabe 2 - 3/8
+a) 1/1 Kommentare sehen gut aus.
+b) 1/1 Umbennenungen sind okay.
+c) 0/1
+fehlt
+d) 1/1
+Würde man vllt. eher VaultAlreadyExists nennen. passt aber.
+e) 0/4
+fehlt
+
+Aufgabe 3 - 2/4
+Hier hätten wieder viele Dinge zusammengefasst werden können -1
+Try und Catch Block wurde nicht behandelt. -0.5
+2 Pfeile auf eine Aktivität ist nicht erlaubt -0.5
